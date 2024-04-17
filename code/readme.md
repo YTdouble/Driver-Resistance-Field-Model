@@ -8,3 +8,5 @@
 *SIFM_model.m* **The code of the comparison model SIFM.**
 
 *TTCP_model.m* **The code of the comparison model TTCP.**
+
+*calculate_ttc.m* **The code for a custom function that is called from within *TTCP_model.m*.**
