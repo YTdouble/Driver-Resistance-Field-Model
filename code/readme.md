@@ -10,3 +10,5 @@
 *TTCP_model.m* **The code of the comparison model TTCP.**
 
 *calculate_ttc.m* **The code for a custom function that is called from within *TTCP_model.m*.**
+
+*classify_strength.m* **Classify interaction strengths and calculate classification accuracy.**
