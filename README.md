@@ -1,2 +1,2 @@
 # Driver-Resistance-Field-Model
-We will upload code and data completely soon.
+The code of the driver resistance field model and our experiment data.
